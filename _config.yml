@@ -10,22 +10,19 @@
 ############################
 
 # Name of website
-title: My website
+title: Yasaman Roudaki
 
 # Your name to show in the footer
-author: Some Person
-
+author: Yasaman Roudaki
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+  About: "about"
+  Projects: "projects"
+  CV: "/assets/cv/Yasaman_Roudaki_CV_7_July_2026.pdf"
+  Contact: "contact"
 ################
 # --- Logo --- #
 ################
@@ -50,14 +47,9 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "yasaman.mirrezaei@etu.unige.ch"
+  github: "yasi-rdk"
+  linkedin: "yasaman-roudaki"
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
