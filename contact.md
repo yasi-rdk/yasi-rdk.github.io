@@ -6,8 +6,18 @@ permalink: /contact/
 
 # Contact
 
-📧 yasaman.mirrezaei@etu.unige.ch
+📧 **University Email:** <yasaman.mirrezaei@etu.unige.ch>
 
-💼 LinkedIn: https://www.linkedin.com/in/yasaman-roudaki/
+📧 **Personal Email:** <y.roudaki@gmail.com>
 
-💻 GitHub: https://github.com/yasi-rdk
+📱 **Phone:** +41 77 992 7437
+
+💼 **LinkedIn:** [linkedin.com/in/yasaman-roudaki](https://www.linkedin.com/in/yasaman-roudaki)
+
+💻 **GitHub:** [github.com/yasi-rdk](https://github.com/yasi-rdk)
+
+🌐 **Portfolio:** [yasi-rdk.github.io](https://yasi-rdk.github.io)
+
+📄 **CV:** [Download CV](/assets/cv/Yasaman_Roudaki_CV_7_July_2026.pdf)
+
+📚 **Master's Thesis:** [Download Thesis](/assets/Thesis/Master_Thesis_Yasaman_Roudaki.pdf)

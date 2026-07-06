@@ -13,7 +13,7 @@ My interests focus on applying **Artificial Intelligence** and **Machine Learnin
 
 During my internship at **DSM-Firmenich**, I worked on Natural Language Processing (NLP) and machine learning solutions for automating internal knowledge management and email classification.
 
----
+
 
 ## Research Interests
 
@@ -24,7 +24,7 @@ During my internship at **DSM-Firmenich**, I worked on Natural Language Processi
 - Biomedical Data Science
 - Healthcare Analytics
 
----
+
 
 ## Education
 
@@ -34,7 +34,7 @@ MSc in Business Analytics
 **Iran University of Science and Technology**  
 BSc in Chemical Engineering
 
----
+
 
 ## Technical Skills
 
@@ -48,12 +48,4 @@ BSc in Chemical Engineering
 - Scikit-learn
 - Jupyter Notebook
 
----
 
-## Contact
-
-📧 Email: yasaman.mirrezaei@etu.unige.ch
-
-🔗 GitHub: https://github.com/yasi-rdk
-
-🔗 LinkedIn: https://www.linkedin.com/in/yasaman-roudaki/
