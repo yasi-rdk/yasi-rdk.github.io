@@ -4,8 +4,17 @@ title: About Me
 subtitle: AI • Data Science • Digital Health
 permalink: /about/
 ---
-
+<p align="center">
+  <img src="/assets/img/yasaman.jpg"
+       alt="Yasaman Roudaki"
+       width="230"
+       style="border-radius:50%; border:4px solid #ddd;">
+</p>
 ## Hello, I'm Yasaman Roudaki!
+
+<p align="center">
+  <img src="/assets/img/yasaman.jpg" alt="Yasaman Roudaki" width="220" style="border-radius:50%;">
+</p>
 
 I am an MSc student in **Business Analytics** at the **University of Geneva**, with a background in **Chemical Engineering**.
 
