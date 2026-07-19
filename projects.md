@@ -19,6 +19,6 @@ Automated classification of multilingual internal requests using semantic embedd
 - Azure
 - NLP
 
-📄 [Download Thesis PDF](/assets/Thesis/Master_Thesis_Yasaman_Roudaki.pdf)
+[📄 Download Thesis PDF](https://github.com/yasi-rdk/master-thesis-email-classification/blob/main/Master%20Thesis-Yasaman%20Roudaki.pdf)
 
-🔗 [GitHub Repository](https://github.com/yasi-rdk/yasi-rdk.github.io)
+[🔗 GitHub Repository](https://github.com/yasi-rdk/master-thesis-email-classification)
