@@ -18,6 +18,6 @@ permalink: /contact/
 
 🌐 **Portfolio:** [yasi-rdk.github.io](https://yasi-rdk.github.io)
 
-📄 **CV:** [Download CV](/assets/cv/Yasaman_Roudaki_CV_7_July_2026.pdf)
+📄 **CV:** [Download CV](/Yasaman_Roudaki_CV_7_July_2026.pdf)
 
 📚 **Master's Thesis:** [Download Thesis](/assets/Thesis/Master_Thesis_Yasaman_Roudaki.pdf)
